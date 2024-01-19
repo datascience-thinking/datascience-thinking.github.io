@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Data science thinking"
+  site-url: https://datascience-thinking.github.io
+  description: "Tiny changes"
+  page-navigation: false
+  
+  page-footer:
+    left: "This page is produced with [Quarto](https://quarto.org/)."
+    right:
+      - text: "License"
+        href: LICENSE.md
+  
+  repo-url: https://github.com/datascience-thinking
+  repo-actions: [edit, issue]
+  
+  navbar:
+    background: "#ffffff"
+    align: left
+    title: FALSE
+
+format:
+  html:
+    theme: cosmo #yeti #cosmo #solar 
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+
+execute:
+  freeze: auto

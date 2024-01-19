@@ -1,0 +1,10 @@
+---
+title: "Data science thinking"
+description: "This is the home page for ..."
+page-layout: full
+title-block-banner: true
+---
+
+
+WIP: DS thinking is ......
+
