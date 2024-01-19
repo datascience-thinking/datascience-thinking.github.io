@@ -1,5 +1,13 @@
 ---
 title: "Related work"
+subtitle: "A collection of publications, software and initiatives that, in our view, are related to data science thinking"
 ---
 
-In this page you can find a collection of publications, software and initiatives that, in our view, are related to data science thinking..... 
+## Core publications 
+
+* [Good Data Science Practice: Moving Toward a Code of Practice for Drug Development](https://doi.org/10.1080/19466315.2022.2063172). Mark Baillie, Conor Moloney, Carsten Philipp Mueller, Jonas Dorn, Janice Branson & David Ohlssen. (2023). Statistics in Biopharmaceutical Research. https://doi.org/10.1080/19466315.2022.2063172   
+
+* [The Role of Statistical Thinking in Biopharmaceutical Research](https://doi.org/10.1080/19466315.2023.2224259). Frank Bretz & Joel B. Greenhouse. (2023). Statistics in Biopharmaceutical Research 15:3, pages 458-467. https://doi.org/10.1080/19466315.2023.2224259
+
+* [Effective Visual Communication for the Quantitative Scientist](https://doi.org/10.1002/psp4.12455). Marc Vandemeulebroecke, Mark Baillie, Alison Margolskee, Baldur Magnusson. CPT Pharmacometrics Syst. Pharmacol., 8: 705-719. https://doi.org/10.1002/psp4.12455
+
