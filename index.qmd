@@ -1,11 +1,16 @@
 ---
 title: "Data science thinking: making an impact"
 subtitle: "24^th^ of March @ AMLD 2024"
-description: "Workshop course materials, related work, additional resources and other important materials."
+description: "This is the home page for the **Data science thinking: making an impact**. The site contains workshop details and logistics, course materials, related work, additional resources and other relevant information"
 page-layout: full
 title-block-banner: false
 engine: knitr
 ---
+
+
+## Registration 
+
+* *Registration*: Get tickets [here](https://ti.to/applied-machine-learning-days/2024)
 
 ## Time / Location {#location}
 
@@ -15,9 +20,7 @@ engine: knitr
 * *Location*: SwissTech Convention Center (STCC), EPFL, Lausanne, Switzerland
 
 
-## Description {#description}
-
-This is the home page for the `Data science thinking: making an impact` workshop course materials.
+## Workshop description {#description}
 
 The value of data science is the promise of "extracting value from data" (Blei and Smyth 2017, "Science and Data Science", PNAS). Enabled by advances in technology, engineering, and the quantitative sciences, data science is reshaping many sectors. However, with the promise of data science there comes many challenges, especially if the hope is to live up to the hype and deliver meaningful impact. 
 
@@ -39,16 +42,13 @@ Each step will be introduced with motivating examples and be accompanied with ha
 ![](img/kostas.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Kostas Sechidis" width="140"}
 
 
-[**Kostas Sechidis**](https://sechidis.netlify.app) is a member of the Advanced Methodology and Data Science group at Novartis.
-
+[**Kostas Sechidis**](https://sechidis.netlify.app) is an Associate Director of Data Science in Novartis’ Advanced Exploratory Analytics group. His main areas of interest are machine learning based biomarker discovery, subgroup identification, and development of digital endpoints. He obtained his PhD in statistical machine learning from the Department of Computer Science of the University of Manchester. Afterwards he spent many years as post-doctoral researcher on developing novel methodologies for analysing: self-reported epidemiological data with Manchester’s Health e-Research Center, clinical trials data for personalised medicine with AstraZeneca and digital healthcare data for digital biomarker development with Roche. He is member of the editorial board of Machine Learning and and vice-chair of the technical committee on Statistical Pattern Recognition Techniques of the International Association for Pattern Recognition (IAPR). More information about his work can be found [here](https://sechidis.netlify.app/).
 
 [`r fontawesome::fa("link")`](https://sechidis.netlify.app)
 [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/konstantinos-kostas-sechidis-19311657/)
 [`r fontawesome::fa("github")`](https://github.com/sechidis)
 
 <br> <br>
-
-
 
 
 <!-- [**Prashanti**](https:///) Placeholder. -->
@@ -62,6 +62,8 @@ Each step will be introduced with motivating examples and be accompanied with ha
 [`r fontawesome::fa("link")`](https://bailliem.github.io)
 [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/mark-baillie-52486735/)
 [`r fontawesome::fa("github")`](https://github.com/bailliem)
+
+<br> <br>
 
 <!-- <br> <br> -->
 

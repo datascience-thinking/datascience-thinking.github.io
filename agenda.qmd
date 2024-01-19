@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Workshop agenda and learning outcomes"
 ---
 
 ## Agenda {#agenda}
@@ -14,4 +14,6 @@ title: ""
 | 15| Closing                                                             |
 
 : {tbl-colwidths="[10,75]"} 
+
+## Learning Outcomes
 
