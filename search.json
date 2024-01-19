@@ -2,8 +2,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Data science thinking: making an impact",
+    "section": "",
+    "text": "Date/Time: 14.00 - 17.30, 24th March 2024\nRoom: Garden 2ABC\nEvent: AMLD 2024,\nLocation: SwissTech Convention Center (STCC), EPFL, Lausanne, Switzerland"
+  },
+  {
+    "objectID": "index.html#location",
+    "href": "index.html#location",
+    "title": "Data science thinking: making an impact",
+    "section": "",
+    "text": "Date/Time: 14.00 - 17.30, 24th March 2024\nRoom: Garden 2ABC\nEvent: AMLD 2024,\nLocation: SwissTech Convention Center (STCC), EPFL, Lausanne, Switzerland"
+  },
+  {
+    "objectID": "index.html#description",
+    "href": "index.html#description",
+    "title": "Data science thinking: making an impact",
+    "section": "Description",
+    "text": "Description\nThis is the home page for the Data science thinking: making an impact workshop course materials.\nThe value of data science is the promise of “extracting value from data” (Blei and Smyth 2017, “Science and Data Science”, PNAS). Enabled by advances in technology, engineering, and the quantitative sciences, data science is reshaping many sectors. However, with the promise of data science there comes many challenges, especially if the hope is to live up to the hype and deliver meaningful impact.\nThe data science thinking workshop is aimed to equip participants with the knowledge needed to understand how data science can be used to transform the way we work, and to develop skills that will help them to translate scientific and business problems into data science projects that have impact.\nThis workshop is designed as follows. First there will be an introduction into data science building towards the importance of “data science thinking”: a set of essential practices for the modern data scientist. The subsequent four modules focus on the individual steps of the proposed data science thinking workflow:\n\nGetting the Questions Right’ teaches how to elicit and understand a business problem and translate it into an actionable data science project.\nBuilding and Executing a Data Strategy’ focuses on building a data strategy, including the conduct of an inventory of available data and, if needed, collection of additional data.\nBuilding and Executing an Analysis Strategy’ discusses aspects around the development and execution of a solution strategy, by building or customizing appropriate statistical, mechanistic and/or machine learning models.\nEvaluating and Communicating Results’ provides insights on the evaluation, contextualize, and communicate the project outcomes and deliverables. Each step will be introduced with motivating examples and be accompanied with hands-on exercises to help develop an understanding and being to develop these learnings to their day-to-day work. The course will be hands-on and fun, with lots of discussion and interaction."
+  },
+  {
+    "objectID": "index.html#people",
+    "href": "index.html#people",
+    "title": "Data science thinking: making an impact",
+    "section": "Facilitators",
+    "text": "Facilitators\n\n\nKostas Sechidis is a member of the Advanced Methodology and Data Science group at Novartis.\n  \n \n\n\n\nMark Baillie is a member of the Advanced Methodology and Data Science group at Novartis. He focuses on methodology to support drug development, working on a variety of internal and external initiatives to improve the reporting of clinical trials. These include effective visual communication, initial data analysis, DMC reporting, analysis results standards, and data challenges. Mark is a member of the Stratos initiative and the PSI visualisation special interest group."
+  },
+  {
+    "objectID": "related.html",
+    "href": "related.html",
+    "title": "Related work",
+    "section": "",
+    "text": "In this page you can find a collection of publications, software and initiatives that, in our view, are related to data science thinking….."
+  },
+  {
+    "objectID": "agenda.html",
+    "href": "agenda.html",
     "title": "Data science thinking",
     "section": "",
-    "text": "WIP: DS thinking is ……"
+    "text": "(subject to changes)\n\n\n\n\n\n\n\nMinutes\nSection\n\n\n\n\n5\nHousekeeping\n\n\n10\nGetting to know you & Expectations\n\n\n40\nExercises\n\n\n15\nClosing"
+  },
+  {
+    "objectID": "agenda.html#agenda",
+    "href": "agenda.html#agenda",
+    "title": "Data science thinking",
+    "section": "",
+    "text": "(subject to changes)\n\n\n\n\n\n\n\nMinutes\nSection\n\n\n\n\n5\nHousekeeping\n\n\n10\nGetting to know you & Expectations\n\n\n40\nExercises\n\n\n15\nClosing"
   }
 ]

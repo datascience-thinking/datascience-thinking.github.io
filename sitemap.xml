@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://datascience-thinking.github.io/index.html</loc>
-    <lastmod>2024-01-19T12:29:40.339Z</lastmod>
+    <lastmod>2024-01-19T13:47:35.386Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascience-thinking.github.io/related.html</loc>
+    <lastmod>2024-01-19T13:47:34.490Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascience-thinking.github.io/agenda.html</loc>
+    <lastmod>2024-01-19T13:47:35.026Z</lastmod>
   </url>
 </urlset>
