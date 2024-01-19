@@ -1,10 +1,37 @@
 ---
 title: "Data science thinking"
-description: "This is the home page for ..."
+subtitle: "24^th^ of March @ AMLD 2024"
+description: "This is the home page for the workshop course materials."
 page-layout: full
-title-block-banner: true
+title-block-banner: false
+engine: knitr
 ---
 
 
-WIP: DS thinking is ......
+## Description {#description}
+
+The workshop ...... 
+
+## Facilitators {#people}
+
+<!-- [**Kostas**](https:///) Placeholder. -->
+<!-- [**Kostas**](https:///) Placeholder. -->
+<!-- [**Kostas**](https:///) Placeholder. -->
+
+
+![](img/mark.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Mark Baillie" width="140"}
+
+[**Mark Baillie**](https://bailliem.github.io) is a member of the Advanced Methodology and Data Science group at Novartis. He focuses on [methodology](https://www.tandfonline.com/doi/full/10.1080/19466315.2022.2063172?src=recsys) to support drug development, working on a variety of internal and external initiatives to improve the reporting of clinical trials. These include [effective visual communication](https://graphicsprinciples.github.io/), [initial data analysis](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009819), [DMC reporting](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-023-07290-4), [analysis results standards](https://www.nature.com/articles/s41597-022-01789-2), and [data challenges](https://arxiv.org/abs/2304.05658). Mark is a member of the [Stratos initiative](https://stratos-initiative.org/en) and the PSI [visualisation](https://github.com/VIS-SIG) special interest group.  
+
+[`r fontawesome::fa("link")`](https://bailliem.github.io)
+[`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/mark-baillie-52486735/)
+[`r fontawesome::fa("github")`](https://github.com/bailliem)
+
+<!-- <br> <br> -->
+
+
+
+
+
+
 

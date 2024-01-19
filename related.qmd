@@ -1,0 +1,5 @@
+---
+title: "Related work"
+---
+
+In this page you can find a collection of publications, software and initiatives that, in our view, are related to data science thinking..... 
