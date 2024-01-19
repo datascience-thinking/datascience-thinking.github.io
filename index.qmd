@@ -1,10 +1,73 @@
 ---
-title: "Data science thinking"
-description: "This is the home page for ..."
+title: "Data science thinking: making an impact"
+subtitle: "24^th^ of March @ AMLD 2024"
+description: "Workshop course materials, related work, additional resources and other important materials."
 page-layout: full
-title-block-banner: true
+title-block-banner: false
+engine: knitr
 ---
 
+## Time / Location {#location}
 
-WIP: DS thinking is ......
+* *Date/Time*: 14.00 - 17.30, 24th March 2024
+* *Room*: Garden 2ABC
+* *Event*: [AMLD 2024](https://2024.appliedmldays.org),
+* *Location*: SwissTech Convention Center (STCC), EPFL, Lausanne, Switzerland
+
+
+## Description {#description}
+
+This is the home page for the `Data science thinking: making an impact` workshop course materials.
+
+The value of data science is the promise of "extracting value from data" (Blei and Smyth 2017, "Science and Data Science", PNAS). Enabled by advances in technology, engineering, and the quantitative sciences, data science is reshaping many sectors. However, with the promise of data science there comes many challenges, especially if the hope is to live up to the hype and deliver meaningful impact. 
+
+The data science thinking workshop is aimed to equip participants with the knowledge needed to understand how data science can be used to transform the way we work, and to develop skills that will help them to translate scientific and business problems into data science projects that have impact.
+
+This workshop is designed as follows. First there will be an introduction into data science building towards the importance of "data science thinking": a set of essential practices for the modern data scientist. The subsequent four modules focus on the individual steps of the proposed data science thinking workflow:
+
+- Getting the Questions Right' teaches how to elicit and understand a business problem and translate it into an actionable data science project.
+- Building and Executing a Data Strategy' focuses on building a data strategy, including the conduct of an inventory of available data and, if needed, collection of additional data.
+- Building and Executing an Analysis Strategy' discusses aspects around the development and execution of a solution strategy, by building or customizing appropriate statistical, mechanistic and/or machine learning models.
+- Evaluating and Communicating Results' provides insights on the evaluation, contextualize, and communicate the project outcomes and deliverables.
+Each step will be introduced with motivating examples and be accompanied with hands-on exercises to help develop an understanding and being to develop these learnings to their day-to-day work. The course will be hands-on and fun, with lots of discussion and interaction.
+
+
+## Facilitators {#people}
+
+<!-- [**Kostas**](https:///) Placeholder. -->
+
+![](img/kostas.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Kostas Sechidis" width="140"}
+
+
+[**Kostas Sechidis**](https://sechidis.netlify.app) is a member of the Advanced Methodology and Data Science group at Novartis.
+
+
+[`r fontawesome::fa("link")`](https://sechidis.netlify.app)
+[`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/konstantinos-kostas-sechidis-19311657/)
+[`r fontawesome::fa("github")`](https://github.com/sechidis)
+
+<br> <br>
+
+
+
+
+<!-- [**Prashanti**](https:///) Placeholder. -->
+<!-- [**Frank**](https:///) Placeholder. -->
+
+
+![](img/mark.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Mark Baillie" width="140"}
+
+[**Mark Baillie**](https://bailliem.github.io) is a member of the Advanced Methodology and Data Science group at Novartis. He focuses on [methodology](https://www.tandfonline.com/doi/full/10.1080/19466315.2022.2063172?src=recsys) to support drug development, working on a variety of internal and external initiatives to improve the reporting of clinical trials. These include [effective visual communication](https://graphicsprinciples.github.io/), [initial data analysis](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009819), [DMC reporting](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-023-07290-4), [analysis results standards](https://www.nature.com/articles/s41597-022-01789-2), and [data challenges](https://arxiv.org/abs/2304.05658). Mark is a member of the [Stratos initiative](https://stratos-initiative.org/en) and the PSI [visualisation](https://github.com/VIS-SIG) special interest group.  
+
+[`r fontawesome::fa("link")`](https://bailliem.github.io)
+[`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/mark-baillie-52486735/)
+[`r fontawesome::fa("github")`](https://github.com/bailliem)
+
+<!-- <br> <br> -->
+
+
+
+
+
+
 

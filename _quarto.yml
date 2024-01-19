@@ -12,22 +12,33 @@ website:
     left: "This page is produced with [Quarto](https://quarto.org/)."
     right:
       - text: "License"
-        href: LICENSE.md
+        href: LICENSE
   
   repo-url: https://github.com/datascience-thinking
   repo-actions: [edit, issue]
   
-  navbar:
-    background: "#ffffff"
-    align: left
-    title: FALSE
+  sidebar:
+#    logo: "img/logo.png"
+    pinned: true
+    align: center
+    style: "docked"
+    search: true
+    collapse-level: 3
+    border: true
+    
+    contents:
+      - file: index.qmd
+        text: "Welcome"
+      - file: agenda.qmd
+        text: "Agenda"
+      - href: related.qmd
+        text: "Resources"
 
 format:
   html:
     theme: cosmo #yeti #cosmo #solar 
     toc: true
-    code-copy: true
-    code-overflow: wrap
+    css: styles.css
 
 execute:
   freeze: auto

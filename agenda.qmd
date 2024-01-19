@@ -1,0 +1,17 @@
+---
+title: ""
+---
+
+## Agenda {#agenda}
+
+(subject to changes)
+
+| Minutes| Section     |
+|---|:----------|
+| 5 | Housekeeping                                                        |
+| 10| Getting to know you & Expectations                                  |
+| 40| Exercises                                                           |
+| 15| Closing                                                             |
+
+: {tbl-colwidths="[10,75]"} 
+
