@@ -1,72 +1,102 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data science thinking: making an impact",
-    "section": "",
-    "text": "Registration: Sign up here"
-  },
-  {
-    "objectID": "index.html#registration",
-    "href": "index.html#registration",
-    "title": "Data science thinking: making an impact",
-    "section": "",
-    "text": "Registration: Sign up here"
-  },
-  {
-    "objectID": "index.html#location",
-    "href": "index.html#location",
-    "title": "Data science thinking: making an impact",
-    "section": "Time / Location",
-    "text": "Time / Location\n\nDate/Time: 14.00 - 17.30, 24th March 2024\nRoom: Garden 2ABC\nEvent: AMLD 2024,\nLocation: SwissTech Convention Center (STCC), EPFL, Lausanne, Switzerland"
-  },
-  {
-    "objectID": "index.html#description",
-    "href": "index.html#description",
-    "title": "Data science thinking: making an impact",
-    "section": "Workshop description",
-    "text": "Workshop description\nThe value of data science is the promise of extracting value from data Blei and Smyth (2017). Enabled by advances in technology, engineering, and the quantitative sciences, data science is reshaping many sectors. However, with the promise of data science there comes many challenges, especially if the hope is to live up to the hype and deliver meaningful impact.\nThe data science thinking workshop is aimed to equip participants with the knowledge needed to understand how data science can be used to transform the way we work, and to develop skills that will help them to translate scientific and business problems into data science projects that have impact.\nThis workshop is designed as follows. First there will be an introduction into data science building towards the importance of data science thinking: a set of essential practices for the modern data scientist. The subsequent four modules focus on the individual steps of the proposed data science thinking workflow:\n\nGetting the Questions Right: teaches how to elicit and understand a business problem and translate it into an actionable data science project.\nBuilding and Executing a Data Strategy: focuses on building a data strategy, including the conduct of an inventory of available data and, if needed, collection of additional data.\nBuilding and Executing an Analysis Strategy: discusses aspects around the development and execution of a solution strategy, by building or customizing appropriate statistical, mechanistic and/or machine learning models.\nEvaluating and Communicating Results: provides insights on the evaluation, contextualize, and communicate the project outcomes and deliverables.\n\nEach step will be introduced with motivating examples and be accompanied with hands-on exercises to help develop an understanding and being to develop these learnings to their day-to-day work. The course will be hands-on and fun, with lots of discussion and interaction."
-  },
-  {
-    "objectID": "index.html#people",
-    "href": "index.html#people",
-    "title": "Data science thinking: making an impact",
-    "section": "Facilitators",
-    "text": "Facilitators\n\n\nKostas Sechidis is an Associate Director of Data Science in Novartis’ Advanced Exploratory Analytics group. His main areas of interest are machine learning based biomarker discovery, subgroup identification, and development of digital endpoints. He obtained his PhD in statistical machine learning from the Department of Computer Science of the University of Manchester. Afterwards he spent many years as post-doctoral researcher on developing novel methodologies for analysing: self-reported epidemiological data with Manchester’s Health e-Research Center, clinical trials data for personalised medicine with AstraZeneca and digital healthcare data for digital biomarker development with Roche. He is member of the editorial board of Machine Learning and and vice-chair of the technical committee on Statistical Pattern Recognition Techniques of the International Association for Pattern Recognition (IAPR). More information about his work can be found here.\n  \n \n\n\n\nMark Baillie is a member of the Advanced Methodology and Data Science group at Novartis. He focuses on methodology to support drug development, working on a variety of internal and external initiatives to improve the reporting of clinical trials. These include effective visual communication, initial data analysis, DMC reporting, analysis results standards, and data challenges. Mark is a member of the Stratos initiative and the PSI visualisation special interest group."
-  },
-  {
     "objectID": "related.html",
     "href": "related.html",
     "title": "Related work",
     "section": "",
-    "text": "Good Data Science Practice: Moving Toward a Code of Practice for Drug Development. Mark Baillie, Conor Moloney, Carsten Philipp Mueller, Jonas Dorn, Janice Branson & David Ohlssen. (2023). Statistics in Biopharmaceutical Research. https://doi.org/10.1080/19466315.2022.2063172\nThe Role of Statistical Thinking in Biopharmaceutical Research. Frank Bretz & Joel B. Greenhouse. (2023). Statistics in Biopharmaceutical Research 15:3, pages 458-467. https://doi.org/10.1080/19466315.2023.2224259\nEffective Visual Communication for the Quantitative Scientist. Marc Vandemeulebroecke, Mark Baillie, Alison Margolskee, Baldur Magnusson. CPT Pharmacometrics Syst. Pharmacol., 8: 705-719. https://doi.org/10.1002/psp4.12455"
+    "text": "Good Data Science Practice: Moving Toward a Code of Practice for Drug Development. Mark Baillie, Conor Moloney, Carsten Philipp Mueller, Jonas Dorn, Janice Branson & David Ohlssen. (2023). Statistics in Biopharmaceutical Research. https://doi.org/10.1080/19466315.2022.2063172\nThe Role of Statistical Thinking in Biopharmaceutical Research. Frank Bretz & Joel B. Greenhouse. (2023). Statistics in Biopharmaceutical Research 15:3, pages 458-467. https://doi.org/10.1080/19466315.2023.2224259\nEffective Visual Communication for the Quantitative Scientist. Marc Vandemeulebroecke, Mark Baillie, Alison Margolskee, Baldur Magnusson. CPT Pharmacometrics Syst. Pharmacol., 8: 705-719. https://doi.org/10.1002/psp4.12455",
+    "crumbs": [
+      "Resources"
+    ]
   },
   {
     "objectID": "related.html#core-publications",
     "href": "related.html#core-publications",
     "title": "Related work",
     "section": "",
-    "text": "Good Data Science Practice: Moving Toward a Code of Practice for Drug Development. Mark Baillie, Conor Moloney, Carsten Philipp Mueller, Jonas Dorn, Janice Branson & David Ohlssen. (2023). Statistics in Biopharmaceutical Research. https://doi.org/10.1080/19466315.2022.2063172\nThe Role of Statistical Thinking in Biopharmaceutical Research. Frank Bretz & Joel B. Greenhouse. (2023). Statistics in Biopharmaceutical Research 15:3, pages 458-467. https://doi.org/10.1080/19466315.2023.2224259\nEffective Visual Communication for the Quantitative Scientist. Marc Vandemeulebroecke, Mark Baillie, Alison Margolskee, Baldur Magnusson. CPT Pharmacometrics Syst. Pharmacol., 8: 705-719. https://doi.org/10.1002/psp4.12455"
+    "text": "Good Data Science Practice: Moving Toward a Code of Practice for Drug Development. Mark Baillie, Conor Moloney, Carsten Philipp Mueller, Jonas Dorn, Janice Branson & David Ohlssen. (2023). Statistics in Biopharmaceutical Research. https://doi.org/10.1080/19466315.2022.2063172\nThe Role of Statistical Thinking in Biopharmaceutical Research. Frank Bretz & Joel B. Greenhouse. (2023). Statistics in Biopharmaceutical Research 15:3, pages 458-467. https://doi.org/10.1080/19466315.2023.2224259\nEffective Visual Communication for the Quantitative Scientist. Marc Vandemeulebroecke, Mark Baillie, Alison Margolskee, Baldur Magnusson. CPT Pharmacometrics Syst. Pharmacol., 8: 705-719. https://doi.org/10.1002/psp4.12455",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data science thinking: making an impact",
+    "section": "",
+    "text": "Registration: Sign up here",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#registration",
+    "href": "index.html#registration",
+    "title": "Data science thinking: making an impact",
+    "section": "",
+    "text": "Registration: Sign up here",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#location",
+    "href": "index.html#location",
+    "title": "Data science thinking: making an impact",
+    "section": "Time / Location",
+    "text": "Time / Location\n\nDate/Time: 14.00 - 17.30, 24th March 2024\nRoom: Garden 2ABC\nEvent: AMLD 2024,\nLocation: SwissTech Convention Center (STCC), EPFL, Lausanne, Switzerland",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#description",
+    "href": "index.html#description",
+    "title": "Data science thinking: making an impact",
+    "section": "Workshop description",
+    "text": "Workshop description\nThe value of data science is the promise of extracting value from data Blei and Smyth (2017). Enabled by advances in technology, engineering, and the quantitative sciences, data science is reshaping many sectors. However, with the promise of data science there comes many challenges, especially if the hope is to live up to the hype and deliver meaningful impact.\nThe data science thinking workshop is aimed to equip participants with the knowledge needed to understand how data science can be used to transform the way we work, and to develop skills that will help them to translate scientific and business problems into data science projects that have impact.\nThis workshop is designed as follows. First there will be an introduction into data science building towards the importance of data science thinking: a set of essential practices for the modern data scientist. The subsequent four modules focus on the individual steps of the proposed data science thinking workflow:\n\nGetting the Questions Right: teaches how to elicit and understand a business problem and translate it into an actionable data science project.\nBuilding and Executing a Data Strategy: focuses on building a data strategy, including the conduct of an inventory of available data and, if needed, collection of additional data.\nBuilding and Executing an Analysis Strategy: discusses aspects around the development and execution of a solution strategy, by building or customizing appropriate statistical, mechanistic and/or machine learning models.\nEvaluating and Communicating Results: provides insights on the evaluation, contextualize, and communicate the project outcomes and deliverables.\n\nEach step will be introduced with motivating examples and be accompanied with hands-on exercises to help develop an understanding and being to develop these learnings to their day-to-day work. The course will be hands-on and fun, with lots of discussion and interaction.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#people",
+    "href": "index.html#people",
+    "title": "Data science thinking: making an impact",
+    "section": "Facilitators",
+    "text": "Facilitators\n\n\nKostas Sechidis is an Associate Director of Data Science in Novartis’ Advanced Exploratory Analytics group. His main areas of interest are machine learning based biomarker discovery, subgroup identification, and development of digital endpoints. He obtained his PhD in statistical machine learning from the Department of Computer Science of the University of Manchester. Afterwards he spent many years as post-doctoral researcher on developing novel methodologies for analysing: self-reported epidemiological data with Manchester’s Health e-Research Center, clinical trials data for personalised medicine with AstraZeneca and digital healthcare data for digital biomarker development with Roche. He is member of the editorial board of Machine Learning and and vice-chair of the technical committee on Statistical Pattern Recognition Techniques of the International Association for Pattern Recognition (IAPR). More information about his work can be found here.\n \n\n Frank Bretz is a Distinguished Quantitative Research Scientist at Novartis. He has supported the methodological development in various areas of pharmaceutical statistics, including dose finding, estimands, multiple comparisons, and adaptive designs. Frank is an Adjunct Professor at the Hannover Medical School (Germany) and the Medical University Vienna (Austria). Frank is a Fellow of the American Statistical Association.\n \n\n\nMark Baillie is a member of the Advanced Methodology and Data Science group at Novartis. He focuses on methodology to support drug development, working on a variety of internal and external initiatives to improve the reporting of clinical trials. These include effective visual communication, initial data analysis, DMC reporting, analysis results standards, and data challenges. Mark is a member of the Stratos initiative and the PSI visualisation special interest group.",
+    "crumbs": [
+      "Welcome"
+    ]
   },
   {
     "objectID": "agenda.html",
     "href": "agenda.html",
     "title": "Workshop agenda and learning outcomes",
     "section": "",
-    "text": "(subject to changes)\n\n\n\n\n\n\n\nMinutes\nSection\n\n\n\n\n5\nHousekeeping\n\n\n10\nGetting to know you & Expectations\n\n\n40\nExercises\n\n\n15\nClosing"
+    "text": "(subject to changes)\n\n\n\n\n\n\n\nMinutes\nSection\n\n\n\n\n5\nHousekeeping\n\n\n10\nGetting to know you & Expectations\n\n\n40\nExercises\n\n\n15\nClosing",
+    "crumbs": [
+      "Agenda"
+    ]
   },
   {
     "objectID": "agenda.html#agenda",
     "href": "agenda.html#agenda",
     "title": "Workshop agenda and learning outcomes",
     "section": "",
-    "text": "(subject to changes)\n\n\n\n\n\n\n\nMinutes\nSection\n\n\n\n\n5\nHousekeeping\n\n\n10\nGetting to know you & Expectations\n\n\n40\nExercises\n\n\n15\nClosing"
+    "text": "(subject to changes)\n\n\n\n\n\n\n\nMinutes\nSection\n\n\n\n\n5\nHousekeeping\n\n\n10\nGetting to know you & Expectations\n\n\n40\nExercises\n\n\n15\nClosing",
+    "crumbs": [
+      "Agenda"
+    ]
   },
   {
     "objectID": "agenda.html#learning-outcomes",
     "href": "agenda.html#learning-outcomes",
     "title": "Workshop agenda and learning outcomes",
     "section": "Learning Outcomes",
-    "text": "Learning Outcomes"
+    "text": "Learning Outcomes",
+    "crumbs": [
+      "Agenda"
+    ]
   }
 ]
