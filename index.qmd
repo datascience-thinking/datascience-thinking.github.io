@@ -48,7 +48,7 @@ Each step will be introduced with motivating examples and be accompanied with ha
 [`r fontawesome::fa("link")`](https://sechidis.netlify.app)
 [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/konstantinos-kostas-sechidis-19311657/)
 
-<br> <br>
+<br> 
 
 
 ![](img/frank.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Frank Bretz" width="140"}
@@ -57,8 +57,7 @@ Each step will be introduced with motivating examples and be accompanied with ha
 [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/frank-bretz-8510415/)
 [`r fontawesome::fa("google")`](https://scholar.google.com/citations?hl=en&user=dDGzYjUAAAAJ&view_op=list_works)
 
-<!-- [**Frank**](https:///) Placeholder. -->
-
+<br>
 
 ![](img/mark.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Mark Baillie" width="140"}
 
@@ -68,7 +67,7 @@ Each step will be introduced with motivating examples and be accompanied with ha
 [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/mark-baillie-52486735/)
 [`r fontawesome::fa("github")`](https://github.com/bailliem)
 
-<br> <br>
+<br> 
 
 <!-- <br> <br> -->
 
