@@ -14,19 +14,19 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-      
-      - uses: r-lib/actions/setup-r-dependencies@v2
+      - name: Set up R deps
+        uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          cache-version: 2
-          extra-packages: |
+          packages:
             any::knitr
             any::rmarkdown
-            any::downlit 
+            any::downlit
             any::xml2
-  
+            
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
 
+      
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
