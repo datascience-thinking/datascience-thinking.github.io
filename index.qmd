@@ -41,14 +41,13 @@ Each step will be introduced with motivating examples and be accompanied with ha
 <!-- [**Kostas**](https:///) Placeholder. -->
 
 ![](img/kostas.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Kostas Sechidis" width="140"}
-
-
 [**Kostas Sechidis**](https://sechidis.github.io) is an Associate Director of Data Science in Advanced Methodology and Data Science group of [Novartis](https://www.novartis.com/). His main areas of interest are machine learning based biomarker discovery, subgroup identification, and development of digital endpoints. He is a honorary research fellow in [Machine Learning and Robotics](https://www.cs.manchester.ac.uk/research/expertise/machine-learning-and-robotics/) within the [Department of Computer Science](https://www.cs.manchester.ac.uk/) in the [University of Manchester](https://www.manchester.ac.uk/),a member of the editorial board of Machine Learning Journal [(MLJ)](https://www.springer.com/journal/10994/editors) and vice-chair of the technical committee on [Statistical Pattern Recognition Techniques](https://sites.google.com/view/iapr-tc1/home?pli=1) of the International Association for Pattern Recognition [(IAPR)](https://iapr.org/index.php). More information about his work can be found [here](https://sechidis.netlify.app/).
+
 
 [`r fontawesome::fa("link")`](https://sechidis.github.io)
 [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/konstantinos-kostas-sechidis-19311657/)
 
-<br> <br>
+<br> 
 
 
 ![](img/frank.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Frank Bretz" width="140"}
@@ -57,8 +56,7 @@ Each step will be introduced with motivating examples and be accompanied with ha
 [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/frank-bretz-8510415/)
 [`r fontawesome::fa("google")`](https://scholar.google.com/citations?hl=en&user=dDGzYjUAAAAJ&view_op=list_works)
 
-<!-- [**Frank**](https:///) Placeholder. -->
-
+<br>
 
 ![](img/mark.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Mark Baillie" width="140"}
 
@@ -68,7 +66,7 @@ Each step will be introduced with motivating examples and be accompanied with ha
 [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/mark-baillie-52486735/)
 [`r fontawesome::fa("github")`](https://github.com/bailliem)
 
-<br> <br>
+<br> 
 
 <!-- <br> <br> -->
 
