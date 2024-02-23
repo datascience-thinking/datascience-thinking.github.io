@@ -4,7 +4,7 @@
     "href": "agenda.html",
     "title": "Workshop agenda and learning outcomes",
     "section": "",
-    "text": "(subject to changes)\n\n\n\n\n\n\n\nMinutes\nSection\n\n\n\n\n5\nHousekeeping\n\n\n10\nGetting to know you & Expectations\n\n\n40\nExercises\n\n\n15\nClosing",
+    "text": "Time\nSection\n\n\n\n\n14:00 - 14:30\nIntroduction on the Data Science Thinking Process\n\n\n14:30 - 15:30\nGetting the Questions Right\n\n\n15:30 - 16:00\nBreak\n\n\n16:00 - 17:00\nBuilding and Executing an Analysis Strategy\n\n\n17:00 - 17:30\nEvaluating and Communicating Results",
     "crumbs": [
       "Agenda"
     ]
@@ -14,7 +14,7 @@
     "href": "agenda.html#agenda",
     "title": "Workshop agenda and learning outcomes",
     "section": "",
-    "text": "(subject to changes)\n\n\n\n\n\n\n\nMinutes\nSection\n\n\n\n\n5\nHousekeeping\n\n\n10\nGetting to know you & Expectations\n\n\n40\nExercises\n\n\n15\nClosing",
+    "text": "Time\nSection\n\n\n\n\n14:00 - 14:30\nIntroduction on the Data Science Thinking Process\n\n\n14:30 - 15:30\nGetting the Questions Right\n\n\n15:30 - 16:00\nBreak\n\n\n16:00 - 17:00\nBuilding and Executing an Analysis Strategy\n\n\n17:00 - 17:30\nEvaluating and Communicating Results",
     "crumbs": [
       "Agenda"
     ]
@@ -50,21 +50,11 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data science thinking: making an impact",
-    "section": "",
-    "text": "Registration: Sign up here",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
     "objectID": "index.html#registration",
     "href": "index.html#registration",
     "title": "Data science thinking: making an impact",
-    "section": "",
-    "text": "Registration: Sign up here",
+    "section": "Registration",
+    "text": "Registration\n\nRegistration: Sign up here",
     "crumbs": [
       "Welcome"
     ]
@@ -84,7 +74,7 @@
     "href": "index.html#description",
     "title": "Data science thinking: making an impact",
     "section": "Workshop description",
-    "text": "Workshop description\nThe value of data science is the promise of extracting value from data Blei and Smyth (2017). Enabled by advances in technology, engineering, and the quantitative sciences, data science is reshaping many sectors. However, with the promise of data science there comes many challenges, especially if the hope is to live up to the hype and deliver meaningful impact.\nThe data science thinking workshop is aimed to equip participants with the knowledge needed to understand how data science can be used to transform the way we work, and to develop skills that will help them to translate scientific and business problems into data science projects that have impact.\nThis workshop is designed as follows. First there will be an introduction into data science building towards the importance of data science thinking: a set of essential practices for the modern data scientist. The subsequent four modules focus on the individual steps of the proposed data science thinking workflow:\n\nGetting the Questions Right: teaches how to elicit and understand a business problem and translate it into an actionable data science project.\nBuilding and Executing a Data Strategy: focuses on building a data strategy, including the conduct of an inventory of available data and, if needed, collection of additional data.\nBuilding and Executing an Analysis Strategy: discusses aspects around the development and execution of a solution strategy, by building or customizing appropriate statistical, mechanistic and/or machine learning models.\nEvaluating and Communicating Results: provides insights on the evaluation, contextualize, and communicate the project outcomes and deliverables.\n\nEach step will be introduced with motivating examples and be accompanied with hands-on exercises to help develop an understanding and being to develop these learnings to their day-to-day work. The course will be hands-on and fun, with lots of discussion and interaction.",
+    "text": "Workshop description\nThe value of data science is the promise of extracting value from data (Blei and Smyth 2017). Enabled by advances in technology, engineering, and the quantitative sciences, data science is reshaping many sectors. However, with the promise of data science there comes many challenges, especially if the hope is to live up to the hype and deliver meaningful impact.\nThe data science thinking workshop is aimed to equip participants with the knowledge needed to understand how data science can be used to transform the way we work, and to develop skills that will help them to translate scientific and business problems into data science projects that have impact.\nThis workshop is designed as follows. First there will be an introduction into data science building towards the importance of data science thinking: a set of essential practices for the modern data scientist. The subsequent four modules focus on the individual steps of the proposed data science thinking workflow:\n\nGetting the Questions Right: teaches how to elicit and understand a business problem and translate it into an actionable data science project.\nBuilding and Executing a Data Strategy: focuses on building a data strategy, including the conduct of an inventory of available data and, if needed, collection of additional data.\nBuilding and Executing an Analysis Strategy: discusses aspects around the development and execution of a solution strategy, by building or customizing appropriate statistical, mechanistic and/or machine learning models.\nEvaluating and Communicating Results: provides insights on the evaluation, contextualize, and communicate the project outcomes and deliverables.\n\nEach step will be introduced with motivating examples and be accompanied with hands-on exercises to help develop an understanding and being to develop these learnings to their day-to-day work. The course will be hands-on and fun, with lots of discussion and interaction.",
     "crumbs": [
       "Welcome"
     ]
@@ -94,7 +84,7 @@
     "href": "index.html#people",
     "title": "Data science thinking: making an impact",
     "section": "Facilitators",
-    "text": "Facilitators\n Kostas Sechidis is an Associate Director of Data Science in Advanced Methodology and Data Science group of Novartis. His main areas of interest are machine learning based biomarker discovery, subgroup identification, and development of digital endpoints. He is a honorary research fellow in Machine Learning and Robotics within the Department of Computer Science in the University of Manchester,a member of the editorial board of Machine Learning Journal (MLJ) and vice-chair of the technical committee on Statistical Pattern Recognition Techniques of the International Association for Pattern Recognition (IAPR). More information about his work can be found here.\n \n\n\nMark Baillie is a member of the Advanced Methodology and Data Science group at Novartis. He focuses on methodology to support drug development, working on a variety of internal and external initiatives to improve the reporting of clinical trials. These include effective visual communication, initial data analysis, DMC reporting, analysis results standards, and data challenges. Mark is a member of the Stratos initiative and the PSI visualisation special interest group.\n  \n\n Frank Bretz is a Distinguished Quantitative Research Scientist at Novartis. He has supported the methodological development in various areas of pharmaceutical statistics, including dose finding, estimands, multiple comparisons, and adaptive designs. Frank is an Adjunct Professor at the Hannover Medical School (Germany) and the Medical University Vienna (Austria). Frank is a Fellow of the American Statistical Association. \n \n\n Prasanti Goswami works with Novartis’ Development Learning team as a Capability Building Lead helping with all upskilling needs linked to Data and Analytics. She partners with SMEs (like Frank, Kostas and Mark) to upskill team members to meet organization’s skill or behaviour goals. She uses learning design and adult learning theories while developing impactful learning solutions. She has done her Masters in Linguistics from The English and Foreign Languages’ University, Hyderabad.",
+    "text": "Facilitators\n Kostas Sechidis is an Associate Director of Data Science in Advanced Methodology and Data Science group of Novartis. His main areas of interest are machine learning based biomarker discovery, subgroup identification, and development of digital endpoints. He is a honorary research fellow in Machine Learning and Robotics within the Department of Computer Science in the University of Manchester,a member of the editorial board of Machine Learning Journal (MLJ) and vice-chair of the technical committee on Statistical Pattern Recognition Techniques of the International Association for Pattern Recognition (IAPR). More information about his work can be found here.\n \n\n\nMark Baillie is a member of the Advanced Methodology and Data Science group at Novartis. He focuses on methodology to support drug development, working on a variety of internal and external initiatives to improve the reporting of clinical trials. These include effective visual communication, initial data analysis, DMC reporting, analysis results standards, and data challenges. Mark is a member of the Stratos initiative and the PSI visualisation special interest group.\n  \n\n Frank Bretz is a Distinguished Quantitative Research Scientist at Novartis. He has supported the methodological development in various areas of pharmaceutical statistics, including dose finding, estimands, multiple comparisons, and adaptive designs. Frank is an Adjunct Professor at the Hannover Medical School (Germany) and the Medical University Vienna (Austria). Frank is a Fellow of the American Statistical Association.  \n \n\n Prasanti Goswami works with Novartis’ Development Learning team as a Capability Building Lead helping with all upskilling needs linked to Data and Analytics. She partners with SMEs (like Frank, Kostas and Mark) to upskill team members to meet organization’s skill or behaviour goals. She uses learning design and adult learning theories while developing impactful learning solutions. She has done her Masters in Linguistics from The English and Foreign Languages’ University, Hyderabad.",
     "crumbs": [
       "Welcome"
     ]
