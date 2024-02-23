@@ -3,17 +3,15 @@ title: "Workshop agenda and learning outcomes"
 ---
 
 ## Agenda {#agenda}
-
-(subject to changes)
-
-| Minutes| Section     |
+| Time| Section     |
 |---|:----------|
-| 5 | Housekeeping                                                        |
-| 10| Getting to know you & Expectations                                  |
-| 40| Exercises                                                           |
-| 15| Closing                                                             |
+| 14:00 - 14:30 | Introduction on the Data Science Thinking Process |
+| 14:30 - 15:30 | Getting the Questions Right                       |
+| 15:30 - 16:00 | Break                                             |
+| 16:00 - 17:00 | Building and Executing an Analysis Strategy       |
+| 17:00 - 17:30 | Evaluating and Communicating Results              |
 
-: {tbl-colwidths="[10,75]"} 
+
 
 ## Learning Outcomes
 

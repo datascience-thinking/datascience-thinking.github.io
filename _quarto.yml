@@ -18,7 +18,7 @@ website:
   repo-actions: [edit, issue]
   
   sidebar:
-#    logo: "img/logo.png"
+    logo: "img/logo.png"
     pinned: true
     align: center
     style: "docked"
