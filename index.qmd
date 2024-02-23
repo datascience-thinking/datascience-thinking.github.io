@@ -8,6 +8,17 @@ engine: knitr
 ---
 
 
+![](img/tile.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Workshop tile" width="400"}
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Registration 
 
 * *Registration*: Sign up [here](https://ti.to/applied-machine-learning-days/2024)
@@ -22,7 +33,7 @@ engine: knitr
 
 ## Workshop description {#description}
 
-The value of data science is the promise of *extracting value from data* [Blei and Smyth (2017)](https://www.pnas.org/doi/10.1073/pnas.1702076114). Enabled by advances in technology, engineering, and the quantitative sciences, data science is reshaping many sectors. However, with the promise of data science there comes many challenges, especially if the hope is to live up to the hype and deliver meaningful impact. 
+The value of data science is the promise of *extracting value from data* [(Blei and Smyth 2017)](https://www.pnas.org/doi/10.1073/pnas.1702076114). Enabled by advances in technology, engineering, and the quantitative sciences, data science is reshaping many sectors. However, with the promise of data science there comes many challenges, especially if the hope is to live up to the hype and deliver meaningful impact. 
 
 The data science thinking workshop is aimed to equip participants with the knowledge needed to understand how data science can be used to transform the way we work, and to develop skills that will help them to translate scientific and business problems into data science projects that have impact.
 
@@ -60,7 +71,7 @@ Each step will be introduced with motivating examples and be accompanied with ha
 
 
 ![](img/frank.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Frank Bretz" width="140"}
-[**Frank Bretz**](https://www.linkedin.com/in/frank-bretz-8510415/) is a Distinguished Quantitative Research Scientist at Novartis. He has supported the methodological development in various areas of pharmaceutical statistics, including dose finding, estimands, multiple comparisons, and adaptive designs. Frank is an Adjunct Professor at the Hannover Medical School (Germany) and the Medical University Vienna (Austria). Frank is a Fellow of the American Statistical Association. <br> 
+[**Frank Bretz**](https://www.linkedin.com/in/frank-bretz-8510415/) is a Distinguished Quantitative Research Scientist at Novartis. He has supported the methodological development in various areas of pharmaceutical statistics, including dose finding, estimands, multiple comparisons, and adaptive designs. Frank is an Adjunct Professor at the Hannover Medical School (Germany) and the Medical University Vienna (Austria). Frank is a Fellow of the American Statistical Association. <br>  <br> 
 
 [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/frank-bretz-8510415/)
 [`r fontawesome::fa("google")`](https://scholar.google.com/citations?hl=en&user=dDGzYjUAAAAJ&view_op=list_works)
