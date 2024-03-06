@@ -26,7 +26,7 @@ engine: knitr
 ## Time / Location {#location}
 
 * *Date/Time*: 14.00 - 17.30, 24th March 2024
-* *Room*: Garden 2ABC
+* *Room*: Garden 1BC
 * *Event*: [AMLD 2024](https://2024.appliedmldays.org),
 * *Location*: SwissTech Convention Center (STCC), EPFL, Lausanne, Switzerland
 
