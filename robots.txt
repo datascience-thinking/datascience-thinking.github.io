@@ -1,1 +1,1 @@
-Sitemap: https://datascience-thinking.github.io/sitemap.xml
+Sitemap: http://datascience-thinking.github.io/sitemap.xml
