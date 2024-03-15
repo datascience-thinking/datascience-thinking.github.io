@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Data science thinking"
-  site-url: https://datascience-thinking.github.io
+  site-url:  http://datascience-thinking.github.io
   description: "Tiny changes"
   page-navigation: false
   
@@ -14,7 +14,7 @@ website:
       - text: "License"
         href: LICENSE
   
-  repo-url: https://github.com/datascience-thinking
+  repo-url: https://github.com/datascience-thinking/datascience-thinking.github.io
   repo-actions: [edit, issue]
   
   sidebar:
