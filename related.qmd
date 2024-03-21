@@ -12,4 +12,28 @@ subtitle: "A collection of publications, software and initiatives that, in our v
 * [Effective Visual Communication for the Quantitative Scientist](https://doi.org/10.1002/psp4.12455). Marc Vandemeulebroecke, Mark Baillie, Alison Margolskee, Baldur Magnusson. CPT Pharmacometrics Syst. Pharmacol., 8: 705-719. https://doi.org/10.1002/psp4.12455
 
 
+## Effective visual communication 
+
+The home page for effective visual communication and good graphical principles for quantitative scientists can be found [here](https://graphicsprinciples.github.io). 
+
+## Related works 
+
+References and further reading material used to support the workshop. 
+
+* [Cox (2017)](https://doi.org/10.1007/s10654-017-0288-1) Statistical Science: A Grammar for Research. European Journal of Epidemiology 32: 465–71.
+
+* Cummings et al. (2007) Conceiving The Research Question In: Hulley et al (editors) Designing clinical research.
+
+* International Council for Harmonisation (2019) ICH E9(R1): Estimands and sensitivity analysis in clinical trials. 
+
+* [Richardson et al. (1995)](https://doi.org/10.7326/ACPJC-1995-123-3-A12). The well-built clinical question: A key to evidence-based decisions. ACP Journal Club, 123, A12-13. 
+
+* [Vance et al. (2022)](https://doi.org/10.1002/sta4.471) Asking great questions. Stat, 11(1), p.e471. 
+
+* [Bouchrika (2023)](https://research.com/research/how-to-write-a-research-question). How to write a research question: Types, steps, and examples.  
+
+* [Haynes (2006)](https://doi.org/10.1016/j.jclinepi.2006.06.006) Forming research questions. Journal of Clinical Epidemiology 59: 881–86.  
+
+* [Mallows (1998)](https://doi.org/10.1080/00031305.1998.10480528) The Zeroth Problem. The American Statistician 52: 1–9.
+
 
