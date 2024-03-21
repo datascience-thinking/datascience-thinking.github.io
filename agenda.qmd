@@ -5,13 +5,20 @@ title: "Workshop agenda and learning outcomes"
 ## Agenda {#agenda}
 | Time| Section     |
 |---|:----------|
-| 14:00 - 14:30 | Introduction on the Data Science Thinking Process |
-| 14:30 - 15:30 | Getting the Questions Right                       |
-| 15:30 - 16:00 | Break                                             |
-| 16:00 - 17:00 | Building and Executing an Analysis Strategy       |
-| 17:00 - 17:30 | Evaluating and Communicating Results              |
+| 14:00 - 14:30 | Introduction on the Data Science Thinking Process    |
+| 14:30 - 15:30 | Problem & Plan: getting questions right              |
+| 15:30 - 16:00 | Break                                                |
+| 16:00 - 17:00 | Data & Analysis: developing and executing a strategy |
+| 17:00 - 17:30 | Conclusions: effective visual communication          |
 
 
 
 ## Learning Outcomes
 
+By the end of the workshop, you will recognize:
+
+* The integrated set of thinking skills and practices of data science thinking, refocused for answering questions with data.
+* The essential nature of understanding the context to provide an impactful solution, which requires a clear understanding of the problem.
+* Strategies for problem formulation and how using tactics is important before delving into solutions.
+* The key skill of asking great questions in understanding the problem and its context, as well as in establishing trust and building relationships.
+* How question framing helps in defining the broader problem, which has a domino effect on the subsequent workflow.
