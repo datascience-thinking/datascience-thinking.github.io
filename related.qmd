@@ -11,3 +11,5 @@ subtitle: "A collection of publications, software and initiatives that, in our v
 
 * [Effective Visual Communication for the Quantitative Scientist](https://doi.org/10.1002/psp4.12455). Marc Vandemeulebroecke, Mark Baillie, Alison Margolskee, Baldur Magnusson. CPT Pharmacometrics Syst. Pharmacol., 8: 705-719. https://doi.org/10.1002/psp4.12455
 
+
+
