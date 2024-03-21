@@ -36,4 +36,4 @@ References and further reading material used to support the workshop.
 
 * [Mallows (1998)](https://doi.org/10.1080/00031305.1998.10480528) The Zeroth Problem. The American Statistician 52: 1–9.
 
-
+* Kenett, R.S. and Redman, T.C., 2019. The real work of data science: turning data into information, better decisions, and stronger organizations. John Wiley & Sons.
