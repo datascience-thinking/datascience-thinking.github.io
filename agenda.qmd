@@ -18,7 +18,8 @@ title: "Workshop agenda and learning outcomes"
 By the end of the workshop, you will recognize:
 
 * The integrated set of thinking skills and practices of data science thinking, refocused for answering questions with data.
-* The essential nature of understanding the context to provide an impactful solution, which requires a clear understanding of the problem.
-* Strategies for problem formulation and how using tactics is important before delving into solutions.
+* It is essential to have a clear understanding of the problem to provide an impactful solution.
+* Strategies for problem formulation and how using these tactics is important before delving into solutions.
 * The key skill of asking great questions in understanding the problem and its context, as well as in establishing trust and building relationships.
-* How question framing helps in defining the broader problem, which has a domino effect on the subsequent workflow.
+* How question framing helps in defining the broader problem, which has a domino effect on the subsequent workflow phases.
+
