@@ -1,0 +1,5 @@
+## Statement of work
+
+The [templates](https://github.com/datascience-thinking/SoW) and [guide](https://datascience-thinking.github.io/SoW/) for filling out the statement of work (SoW) presented during the workshop is available [online](https://github.com/datascience-thinking/SoW).
+
+Markdown and also [Word](https://github.com/datascience-thinking/SoW/tree/main/assets) and [pdf](https://github.com/datascience-thinking/SoW/tree/main/assets) versions of the guide also available. 
