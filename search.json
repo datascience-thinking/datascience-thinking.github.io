@@ -94,7 +94,7 @@
     "href": "agenda.html",
     "title": "Workshop agenda and learning outcomes",
     "section": "",
-    "text": "Time\nSection\n\n\n\n\n14:00 - 14:30\nIntroduction on the Data Science Thinking Process\n\n\n14:30 - 15:30\nGetting the Questions Right\n\n\n15:30 - 16:00\nBreak\n\n\n16:00 - 17:00\nBuilding and Executing an Analysis Strategy\n\n\n17:00 - 17:30\nEvaluating and Communicating Results",
+    "text": "Time\nSection\n\n\n\n\n14:00 - 14:30\nIntroduction on the Data Science Thinking Process\n\n\n14:30 - 15:30\nProblem & Plan: getting questions right\n\n\n15:30 - 16:00\nBreak\n\n\n16:00 - 17:00\nData & Analysis: developing and executing a strategy\n\n\n17:00 - 17:30\nConclusions: effective visual communication",
     "crumbs": [
       "Agenda"
     ]
@@ -104,7 +104,7 @@
     "href": "agenda.html#agenda",
     "title": "Workshop agenda and learning outcomes",
     "section": "",
-    "text": "Time\nSection\n\n\n\n\n14:00 - 14:30\nIntroduction on the Data Science Thinking Process\n\n\n14:30 - 15:30\nGetting the Questions Right\n\n\n15:30 - 16:00\nBreak\n\n\n16:00 - 17:00\nBuilding and Executing an Analysis Strategy\n\n\n17:00 - 17:30\nEvaluating and Communicating Results",
+    "text": "Time\nSection\n\n\n\n\n14:00 - 14:30\nIntroduction on the Data Science Thinking Process\n\n\n14:30 - 15:30\nProblem & Plan: getting questions right\n\n\n15:30 - 16:00\nBreak\n\n\n16:00 - 17:00\nData & Analysis: developing and executing a strategy\n\n\n17:00 - 17:30\nConclusions: effective visual communication",
     "crumbs": [
       "Agenda"
     ]
@@ -114,7 +114,7 @@
     "href": "agenda.html#learning-outcomes",
     "title": "Workshop agenda and learning outcomes",
     "section": "Learning Outcomes",
-    "text": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of the workshop, you will recognize:\n\nThe integrated set of thinking skills and practices of data science thinking, refocused for answering questions with data.\nThe essential nature of understanding the context to provide an impactful solution, which requires a clear understanding of the problem.\nStrategies for problem formulation and how using tactics is important before delving into solutions.\nThe key skill of asking great questions in understanding the problem and its context, as well as in establishing trust and building relationships.\nHow question framing helps in defining the broader problem, which has a domino effect on the subsequent workflow.",
     "crumbs": [
       "Agenda"
     ]
