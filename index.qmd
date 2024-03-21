@@ -90,7 +90,17 @@ Each step will be introduced with motivating examples and be accompanied with ha
 <!-- <br> <br> -->
 
 
+## Acknowledgements 
 
+Special thanks to:
+
+* Conor Moloney
+* Carsten Philipp Mueller
+* Malika Cremer
+* Peter Krusche
+* Björn Holzhauer
+* Janice Branson
+* David Ohlssen
 
 
 
