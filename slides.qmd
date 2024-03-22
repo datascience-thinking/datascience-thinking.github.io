@@ -2,19 +2,4 @@
 
 ![](assets/parts.png){fig-alt="Workshop" fig-align="left" width="550"}
 
-The workshop slides can be viewed interactively from this page. 
-
-## Download the slides
-
-The slides from [part 1](assets/Part1_DataScienceThinking.pdf) and [part 2](assets/Part2_DataScienceThinking.pdf) are also available for download [here](https://github.com/datascience-thinking/datascience-thinking.github.io). 
-
-
-## Part 1
-
-<iframe src="assets/Part1_DataScienceThinking.pdf" frameborder="0" width="550" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
-</iframe>
-
-## Part 2
-
-<iframe src="assets/Part2_DataScienceThinking.pdf" frameborder="0" width="550" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
-</iframe>
+The slides from [part 1](assets/Part1_DataScienceThinking.pdf) and [part 2](assets/Part2_DataScienceThinking.pdf) are available for download [here](https://github.com/datascience-thinking/datascience-thinking.github.io). 
