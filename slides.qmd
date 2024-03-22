@@ -1,0 +1,3 @@
+# Slides
+
+The slides from [part 1](assets/Part1_DataScienceThinking.pdf) and [part 2](assets/Part2_DataScienceThinking.pdf) are available [here](https://github.com/datascience-thinking/datascience-thinking.github.io). 

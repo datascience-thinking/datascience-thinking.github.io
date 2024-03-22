@@ -31,6 +31,8 @@ website:
         text: "Welcome"
       - file: agenda.qmd
         text: "Agenda"
+      - file: slides.qmd
+        text: "Slides"
       - href: related.qmd
         text: "Resources"
       - href: sow.qmd
