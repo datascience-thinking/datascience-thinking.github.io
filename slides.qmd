@@ -1,8 +1,12 @@
 # Workshop slides
 
-The workshop slides can be viewed interactively from this page. The slides from [part 1](assets/Part1_DataScienceThinking.pdf) and [part 2](assets/Part2_DataScienceThinking.pdf) are also available for download [here](https://github.com/datascience-thinking/datascience-thinking.github.io). 
-
 ![](assets/parts.png){fig-alt="Workshop" fig-align="left" width="550"}
+
+The workshop slides can be viewed interactively from this page. 
+
+## Download the slides
+
+The slides from [part 1](assets/Part1_DataScienceThinking.pdf) and [part 2](assets/Part2_DataScienceThinking.pdf) are also available for download [here](https://github.com/datascience-thinking/datascience-thinking.github.io). 
 
 
 ## Part 1
