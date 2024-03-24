@@ -22,9 +22,9 @@ References and further reading material used to support the workshop.
 
 * [Cox (2017)](https://doi.org/10.1007/s10654-017-0288-1) Statistical Science: A Grammar for Research. European Journal of Epidemiology 32: 465–71.
 
-* Cummings et al. (2007) Conceiving The Research Question In: Hulley et al (editors) Designing clinical research.
+* [Cummings et al. (2007)](http://cii.org.ar/epidemiology/Conceiving%20the%20Research%20Question.pdf) Conceiving The Research Question In: Hulley et al (editors) Designing clinical research.
 
-* International Council for Harmonisation (2019) ICH E9(R1): Estimands and sensitivity analysis in clinical trials. 
+* [International Council for Harmonisation (2019)](https://www.ema.europa.eu/en/documents/scientific-guideline/ich-e9-r1-addendum-estimands-and-sensitivity-analysis-clinical-trials-guideline-statistical-principles-clinical-trials-step-5_en.pdf) ICH E9(R1): Estimands and sensitivity analysis in clinical trials. 
 
 * [Richardson et al. (1995)](https://doi.org/10.7326/ACPJC-1995-123-3-A12). The well-built clinical question: A key to evidence-based decisions. ACP Journal Club, 123, A12-13. 
 
@@ -36,11 +36,13 @@ References and further reading material used to support the workshop.
 
 * [Mallows (1998)](https://doi.org/10.1080/00031305.1998.10480528) The Zeroth Problem. The American Statistician 52: 1–9.
 
-* Kenett, R.S. and Redman, T.C., 2019. The real work of data science: turning data into information, better decisions, and stronger organizations. John Wiley & Sons.
+* [Hernán, M.A., Hsu, J. and Healy, B., 2019](https://www.tandfonline.com/doi/full/10.1080/09332480.2019.1579578). A second chance to get causal inference right: a classification of data science tasks. Chance, 32(1), pp.42-49
 
-* Shmueli, Galit. "To explain or to predict?." (2010): 289-310.
+* [Kenett, R.S. and Redman, T.C., 2019](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119570790). The real work of data science: turning data into information, better decisions, and stronger organizations. John Wiley & Sons.
 
-* Wild, Chris J, and Maxine Pfannkuch. 1999. "Statistical Thinking in Empirical Enquiry." International Statistical Review 67 (3): 223–48.
+* [Shmueli, Galit](https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf). "To explain or to predict?." (2010): 289-310.
 
-* MacKay, R Jock, and R Wayne Oldford. 2000. "Scientific Method, Statistical Method and the Speed of Light." Statistical Science, 254–78.
+* [Wild, Chris J, and Maxine Pfannkuch, 1999](https://iase-web.org/documents/intstatreview/99.Wild.Pfannkuch.pdf). "Statistical Thinking in Empirical Enquiry." International Statistical Review 67 (3): 223–48.
+
+* [MacKay, R Jock, and R Wayne Oldford, 2000](https://projecteuclid.org/journals/statistical-science/volume-15/issue-3/Scientific-Method-Statistical-Method-and-the-Speed-of-Light/10.1214/ss/1009212817.full). "Scientific Method, Statistical Method and the Speed of Light." Statistical Science, 254–78.
 
