@@ -37,3 +37,10 @@ References and further reading material used to support the workshop.
 * [Mallows (1998)](https://doi.org/10.1080/00031305.1998.10480528) The Zeroth Problem. The American Statistician 52: 1–9.
 
 * Kenett, R.S. and Redman, T.C., 2019. The real work of data science: turning data into information, better decisions, and stronger organizations. John Wiley & Sons.
+
+* Shmueli, Galit. "To explain or to predict?." (2010): 289-310.
+
+* Wild, Chris J, and Maxine Pfannkuch. 1999. "Statistical Thinking in Empirical Enquiry." International Statistical Review 67 (3): 223–48.
+
+* MacKay, R Jock, and R Wayne Oldford. 2000. "Scientific Method, Statistical Method and the Speed of Light." Statistical Science, 254–78.
+
